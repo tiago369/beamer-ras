@@ -1,0 +1,56 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Campinas 2019]{linha:online}
+\abntrefinfo{Campinas}{CAMPINAS}{2019}
+{CAMPINAS, S. \emph{Q1038069 - Questões de Concursos | Qconcursos.com}. 2019.
+  \url{https://www.qconcursos.com/questoes-de-concursos/questoes/bc9bb873-f4}.
+(Accessed on 05/17/2022).}
+
+\bibitem[Catapan]{listade:online}
+\abntrefinfo{Catapan}{CATAPAN}{}
+{CATAPAN, M. \emph{lista de exercícios de MODELAGEM 3D}.
+  \url{http://www.exatas.ufpr.br/portal/degraf_marcio/wp-content/uploads/sites/13/2014/09/Lista-Exercicio-Modelagem-3D-Inventor.pdf}.
+(Accessed on 05/17/2022).}
+
+\bibitem[Guepar]{Chavede:online}
+\abntrefinfo{Guepar}{GUEPAR}{}
+{GUEPAR. \emph{Chave de Fenda CR-V – Guepar}.
+  \url{http://www.guepar.com.br/produto/chave-de-fenda/}.
+(Accessed on 05/17/2022).}
+
+\bibitem[Nascimento 2021]{Bomba:online}
+\abntrefinfo{Nascimento}{NASCIMENTO}{2021}
+{NASCIMENTO, F. \emph{Bomba d'água | 3D CAD Model Library | GrabCAD}. 2021.
+  \url{https://grabcad.com/library/bomba-d-agua-3}.
+(Accessed on 05/17/2022).}
+
+\bibitem[Nutrify]{Garrafa:online}
+\abntrefinfo{Nutrify}{NUTRIFY}{}
+{NUTRIFY. \emph{Garrafa de Vidro Nutrify com Tampa de Bambu | Nutrify saude}.
+  \url{https://www.nutrify.com.br/garrafa-de-vidro-com-tampa-de-bambu/p}.
+(Accessed on 05/17/2022).}
+
+\bibitem[Onshape]{Onshape:online}
+\abntrefinfo{Onshape}{ONSHAPE}{}
+{ONSHAPE. \emph{Onshape Live 2022 - Virtual Event | March 2nd \& 3rd}.
+  \url{https://www.onshape.com/en/onshape-live/}.
+(Accessed on 05/17/2022).}
+
+\bibitem[Representações]{diedro:online}
+\abntrefinfo{Representações}{REPRESENTAçõES}{}
+{REPRESENTAçõES.
+  \url{https://desenhobasicouff.weebly.com/representaccedilotildees.html}.
+(Accessed on 05/17/2022).}
+
+\bibitem[Silveira]{cota:online}
+\abntrefinfo{Silveira}{SILVEIRA}{}
+{SILVEIRA, J. \emph{Cotagem Desenho Tecnico}.
+  \url{http://docente.ifsc.edu.br/julio.silveira/MaterialDidatico/Desenho%20t%C3%A9cnico%20I/T%C3%B3pico%20IV%20-%20Cotagem/Cotagem%20Desenho%20Tecnico.pdf}.
+(Accessed on 05/17/2022).}
+
+\end{thebibliography}
