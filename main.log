@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.24)  1 JUN 2022 17:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.31)  7 JUN 2022 10:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/senai/tiago-projects/ras-beamer/main.tex
-(/home/senai/tiago-projects/ras-beamer/main.tex
+**/home/tiago/Documents/projects/beamer-ras/main.tex
+(/home/tiago/Documents/projects/beamer-ras/main.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/senai/tiago-projects/ras-beamer/cubeamer.cls
+L3 programming layer <2020-02-14> (/home/tiago/Documents/projects/beamer-ras/cubeamer.cls
 Document Class: cubeamer CU Boulder Beamer Presentation Template by @polmes
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
@@ -1063,7 +1063,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (/home/senai/tiago-projects/ras-beamer/main.aux)
+ (/home/tiago/Documents/projects/beamer-ras/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1150,7 +1150,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
 LaTeX Info: Redefining \nameref on input line 10.
- (/home/senai/tiago-projects/ras-beamer/main.out) (/home/senai/tiago-projects/ras-beamer/main.out)
+ (/home/tiago/Documents/projects/beamer-ras/main.out) (/home/tiago/Documents/projects/beamer-ras/main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
@@ -1225,7 +1225,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 10.
- (/home/senai/tiago-projects/ras-beamer/main.nav)
+ (/home/tiago/Documents/projects/beamer-ras/main.nav)
 <img/nothing.png, id=33, 376.40625pt x 376.40625pt>
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
@@ -1277,7 +1277,7 @@ Overfull \hbox (182.09747pt too wide) has occurred while \output is active
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/senai/tiago-projects/ras-beamer/img/white.png>] (/home/senai/tiago-projects/ras-beamer/main.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/tiago/Documents/projects/beamer-ras/img/white.png>] (/home/tiago/Documents/projects/beamer-ras/main.toc)
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 14.
@@ -1296,7 +1296,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 14
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [2
 
- </home/senai/tiago-projects/ras-beamer/img/nothing.png> </home/senai/tiago-projects/ras-beamer/img/logosenaicimatecnegativo.png>]
+ </home/tiago/Documents/projects/beamer-ras/img/nothing.png> </home/tiago/Documents/projects/beamer-ras/img/logosenaicimatecnegativo.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 16.
@@ -1339,7 +1339,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 38
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [4
 
- </home/senai/tiago-projects/ras-beamer/img/bomba.png>]
+ </home/tiago/Documents/projects/beamer-ras/img/bomba.png>]
 <img/onshape.png, id=78, 513.92pt x 513.92pt>
 File: img/onshape.png Graphic file (type png)
 <use img/onshape.png>
@@ -1363,7 +1363,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 63
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [5
 
- </home/senai/tiago-projects/ras-beamer/img/onshape.png>]
+ </home/tiago/Documents/projects/beamer-ras/img/onshape.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 65.
@@ -1406,7 +1406,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 84
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [7
 
- </home/senai/tiago-projects/ras-beamer/img/desenho1.jpg>]
+ </home/tiago/Documents/projects/beamer-ras/img/desenho1.jpg>]
 <img/desenho.png, id=106, 474.77374pt x 174.6525pt>
 File: img/desenho.png Graphic file (type png)
 <use img/desenho.png>
@@ -1430,7 +1430,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 94
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [8
 
- </home/senai/tiago-projects/ras-beamer/img/desenho.png>]
+ </home/tiago/Documents/projects/beamer-ras/img/desenho.png>]
 <img/desenho4.jpg, id=117, 777.90625pt x 324.21124pt>
 File: img/desenho4.jpg Graphic file (type jpg)
 <use img/desenho4.jpg>
@@ -1454,7 +1454,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 10
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [9
 
- </home/senai/tiago-projects/ras-beamer/img/desenho4.jpg>]
+ </home/tiago/Documents/projects/beamer-ras/img/desenho4.jpg>]
 <img/desenho5.jpeg, id=127, 208.78pt x 242.9075pt>
 File: img/desenho5.jpeg Graphic file (type jpg)
 <use img/desenho5.jpeg>
@@ -1478,7 +1478,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 11
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [10
 
- </home/senai/tiago-projects/ras-beamer/img/desenho5.jpeg>]
+ </home/tiago/Documents/projects/beamer-ras/img/desenho5.jpeg>]
 <img/desenho2.jpg, id=137, 1410.26875pt x 1089.06876pt>
 File: img/desenho2.jpg Graphic file (type jpg)
 <use img/desenho2.jpg>
@@ -1507,7 +1507,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 13
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [11
 
- </home/senai/tiago-projects/ras-beamer/img/desenho2.jpg> </home/senai/tiago-projects/ras-beamer/img/desenho3.jpg>]
+ </home/tiago/Documents/projects/beamer-ras/img/desenho2.jpg> </home/tiago/Documents/projects/beamer-ras/img/desenho3.jpg>]
 <img/pratica1.png, id=149, 602.25pt x 602.25pt>
 File: img/pratica1.png Graphic file (type png)
 <use img/pratica1.png>
@@ -1531,7 +1531,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 15
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [12
 
- </home/senai/tiago-projects/ras-beamer/img/pratica1.png>]
+ </home/tiago/Documents/projects/beamer-ras/img/pratica1.png>]
 <img/dever1.png, id=160, 602.25pt x 602.25pt>
 File: img/dever1.png Graphic file (type png)
 <use img/dever1.png>
@@ -1555,7 +1555,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 16
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [13
 
- </home/senai/tiago-projects/ras-beamer/img/dever1.png>]
+ </home/tiago/Documents/projects/beamer-ras/img/dever1.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 165.
@@ -1575,93 +1575,164 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 16
  [14
 
 ]
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 175.
-
+File: img/onshape.png Graphic file (type png)
+<use img/onshape.png>
+Package pdftex.def Info: img/onshape.png  used on input line 176.
+(pdftex.def)             Requested size: 89.44331pt x 89.44745pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 175.
+Package pdftex.def Info: img/nothing.png  used on input line 176.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 175.
+Package pdftex.def Info: img/white.png  used on input line 176.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 175.
+Package pdftex.def Info: img/nothing.png  used on input line 176.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 175.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 176.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
-[15
+ [15
 
-] (/home/senai/tiago-projects/ras-beamer/main.bbl)
+]
+<img/pratica2.png, id=188, 534.99875pt x 468.75125pt>
+File: img/pratica2.png Graphic file (type png)
+<use img/pratica2.png>
+Package pdftex.def Info: img/pratica2.png  used on input line 189.
+(pdftex.def)             Requested size: 127.61046pt x 111.81102pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 179.
+Package pdftex.def Info: img/nothing.png  used on input line 189.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 179.
+Package pdftex.def Info: img/white.png  used on input line 189.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 179.
+Package pdftex.def Info: img/nothing.png  used on input line 189.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 179.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 189.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [16
+
+ </home/tiago/Documents/projects/beamer-ras/img/pratica2.png>]
+<img/dever2.png, id=199, 531.9072pt x 589.7232pt>
+File: img/dever2.png Graphic file (type png)
+<use img/dever2.png>
+Package pdftex.def Info: img/dever2.png  used on input line 201.
+(pdftex.def)             Requested size: 121.01312pt x 134.17459pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 201.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 201.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 201.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/logosenaicimatecnegativo.png Graphic file (type png)
+<use img/logosenaicimatecnegativo.png>
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 201.
+(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
+ [17
+
+ </home/tiago/Documents/projects/beamer-ras/img/dever2.png>]
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 210.
+
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 210.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 210.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 210.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/logosenaicimatecnegativo.png Graphic file (type png)
+<use img/logosenaicimatecnegativo.png>
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 210.
+(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
+[18
+
+] (/home/tiago/Documents/projects/beamer-ras/main.bbl)
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 214.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 214.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 214.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/logosenaicimatecnegativo.png Graphic file (type png)
+<use img/logosenaicimatecnegativo.png>
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 214.
+(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
+ [19
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 179.
+Package pdftex.def Info: img/nothing.png  used on input line 214.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 179.
+Package pdftex.def Info: img/white.png  used on input line 214.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 179.
+Package pdftex.def Info: img/nothing.png  used on input line 214.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 179.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 214.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
- [17
+ [20
 
 
 ]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 179.
+Package pdftex.def Info: img/nothing.png  used on input line 214.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 179.
+Package pdftex.def Info: img/white.png  used on input line 214.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 179.
+Package pdftex.def Info: img/nothing.png  used on input line 214.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 179.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 214.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
- [18
+ [21
 
 
 ]
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 185.
+Package pdftex.def Info: img/white.png  used on input line 220.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
- [19
+ [22
 
 ]
 \tf@nav=\write8
@@ -1673,11 +1744,11 @@ Package pdftex.def Info: img/white.png  used on input line 185.
 \tf@snm=\write10
 \openout10 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
- (/home/senai/tiago-projects/ras-beamer/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
+ (/home/tiago/Documents/projects/beamer-ras/main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 222.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 62F282DF9968414E94D992D8C1F78781;235.
 
@@ -1686,18 +1757,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33800 strings out of 481239
- 733319 string characters out of 5920376
- 1036274 words of memory out of 5000000
- 48239 multiletter control sequences out of 15000+600000
+ 33827 strings out of 481239
+ 733793 string characters out of 5920377
+ 1036317 words of memory out of 5000000
+ 48257 multiletter control sequences out of 15000+600000
  548636 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,16n,110p,1842b,950s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,16n,110p,1846b,950s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on /home/senai/tiago-projects/ras-beamer/main.pdf (19 pages, 650632 bytes).
+Output written on /home/tiago/Documents/projects/beamer-ras/main.pdf (22 pages, 818039 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 303 PDF objects out of 1000 (max. 8388607)
+ 223 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -22,50 +22,51 @@ Warning--campo year vazio ou faltando em Garrafa:online
 Warning--campo year vazio ou faltando em Onshape:online
 Warning--campo year vazio ou faltando em diedro:online
 Warning--campo year vazio ou faltando em cota:online
+Warning--campo year vazio ou faltando em LearnAut96:online
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 8 entries,
+You've used 9 entries,
             6714 wiz_defined-function locations,
-            1232 strings with 10517 characters,
-and the built_in function-call counts, 5879 in all, are:
-= -- 668
-> -- 105
+            1238 strings with 10683 characters,
+and the built_in function-call counts, 6436 in all, are:
+= -- 706
+> -- 120
 < -- 0
-+ -- 115
-- -- 35
-* -- 299
-:= -- 860
-add.period$ -- 33
-call.type$ -- 8
-change.case$ -- 63
-chr.to.int$ -- 8
-cite$ -- 14
-duplicate$ -- 240
-empty$ -- 438
-format.name$ -- 161
-if$ -- 1444
++ -- 120
+- -- 40
+* -- 329
+:= -- 938
+add.period$ -- 37
+call.type$ -- 9
+change.case$ -- 71
+chr.to.int$ -- 9
+cite$ -- 16
+duplicate$ -- 270
+empty$ -- 490
+format.name$ -- 184
+if$ -- 1579
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 137
-newline$ -- 48
-num.names$ -- 35
-pop$ -- 208
+missing$ -- 154
+newline$ -- 53
+num.names$ -- 40
+pop$ -- 231
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 27
 quote$ -- 0
-skip$ -- 477
+skip$ -- 513
 stack$ -- 1
-substring$ -- 175
-swap$ -- 97
+substring$ -- 184
+swap$ -- 109
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 17
-warning$ -- 6
-while$ -- 41
+warning$ -- 7
+while$ -- 46
 width$ -- 0
-write$ -- 121
-(There were 6 warnings)
+write$ -- 135
+(There were 7 warnings)
